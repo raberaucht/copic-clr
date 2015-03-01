@@ -1,4 +1,4 @@
-# Copic.clr
+# copic-clr
 Copic Color Palette for OSX Color Picker
 
 ## Installation
